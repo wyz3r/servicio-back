@@ -1,0 +1,15 @@
+{
+  "name": "servcio-back",
+  "version": "1.0.0",
+  "description": "backend para servicio social",
+  "main": "index.js",
+  "repository": "https://github.com/wyz3r/servicio-back.git",
+  "author": "Wyz3r <leonelislasglez@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./app/main.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
