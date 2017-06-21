@@ -7,9 +7,10 @@
   "author": "Wyz3r <leonelislasglez@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node ./app/main.js"
+    "start": "nodemon ./app/main.js"
   },
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
   }
 }
